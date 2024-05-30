@@ -14,3 +14,9 @@ This script will check current server temperatures once per 10 seconds and contr
 
 - If you find that speed is not meet your expectations you can change `correction` variable to positive or negative values to increase or reduce overall fan speed.
 - Also you can change `ITERATION_SLEEP` and `ITERATION_MAX` variables to reduce / increase time between temperature checks
+
+## Donations
+
+You can say thanks by donating for buying pizza at:
+
+<a href="https://www.buymeacoffee.com/astraliens" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Pizza" height="41" width="174"></a>
