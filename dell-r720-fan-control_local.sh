@@ -1,4 +1,5 @@
 #!/bin/bash
+# Actual version on GitHub https://github.com/astraliens/Dell-R720xd-server-silent-fans
 
 ITERATION_NOW=0
 ITERATION_MAX=4
